@@ -32,7 +32,7 @@ export default defineConfig({
       label: '本页目录'
     },
 
-    socialLinks: [{ icon: 'github', link: 'https://github.com/maomao1996/vitepress-fe-nav' }],
+    socialLinks: [{ icon: 'github', link: 'https://github.com/dongkai16z/vitepress-fe-nav' }],
 
     footer: {
       copyright: 'Copyright © 2019-present maomao'
