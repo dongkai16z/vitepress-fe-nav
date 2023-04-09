@@ -403,6 +403,17 @@ export const NAV_DATA: NavData[] = [
     ]
   },
   {
+    title: '云开发平台',
+    items: [
+      {
+        icon: 'https://laf.dev/favicon.ico',
+        title: 'laf',
+        desc: '开源的云开发平台，提供云函数、云数据库、云存储等开箱即用的应用资源。让开发者专注于业务开发，无需折腾服务器，快速释放创意',
+        link: 'https://laf.dev/'
+      },
+    ]
+  },
+  {
     title: '站点生成器',
     items: [
       {
