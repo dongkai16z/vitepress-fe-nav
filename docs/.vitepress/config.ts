@@ -6,8 +6,8 @@ export default defineConfig({
   outDir: '../dist',
 
   lang: 'zh-CN',
-  title: '茂茂物语',
-  description: '茂茂的成长之路，包含前端常用知识、源码阅读笔记、各种奇淫技巧、日常提效工具等',
+  title: 'cy Nest',
+  description: 'cy 前端学习之路, 记录工作、学习的点点滴滴',
   head,
 
   lastUpdated: true,
@@ -35,7 +35,6 @@ export default defineConfig({
     socialLinks: [{ icon: 'github', link: 'https://github.com/maomao1996/vitepress-fe-nav' }],
 
     footer: {
-      message: '如有转载或 CV 的请标注本站原文地址',
       copyright: 'Copyright © 2019-present maomao'
     },
 
